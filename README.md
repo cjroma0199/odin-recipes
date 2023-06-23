@@ -1,5 +1,5 @@
 # odin-recipes
 
-This project is all about create simple recipes website
+This project is all about creating simple recipe website
 
-In Addition, it will also teach me how to commit and practice proper commit messages
+These recipes are from the Philippines which I love the most!
